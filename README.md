@@ -14,7 +14,7 @@ I am on a long journey of learning cybersecurity and will stay on that road. I a
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Computer Building                             | <a href="https://github.com/g0n3ph1sh1ng/Building-Computers-From-Scratch/blob/main/README.md">Building Computers From Scratch</a>|
-| Active Directory Lab                          | <a href="https://google.com">Active Directory Lab</a>|
+| Active Directory Lab                          | <a href="https://google.com">Active Directory Lab (in the works)</a>|
 
 ## Tools
 
@@ -30,4 +30,4 @@ A+ Work in progress, needs more studying
 
 ## Projects
 - <a href="https://github.com/g0n3ph1sh1ng/Building-Computers-From-Scratch/blob/main/README.md">Building Computers From Scratch</a>
-- Active Directory Lab
+- Active Directory Lab (in the works)
